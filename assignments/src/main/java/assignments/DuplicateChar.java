@@ -5,7 +5,7 @@ public class DuplicateChar {
 	 * public static void main(String[] args) {
 	 * System.out.println(removing_Duplicate("helloworld")); }
 	 */
-	public String removing_Duplicate(String input) {
+	public String removingDuplicate(String input) {
 		String output = "";
 		int count = 0;
 		int i, j;
